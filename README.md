@@ -8,7 +8,7 @@
 
 - 要下載的是 **`.exe` 檔**。如果你是從「Releases」頁面下載，請點 `CubeArcade-Setup-版本號.exe`，不要下載 `Source code`、`.blockmap` 或 `latest.yml`。
 - 安裝過一次之後，程式會自動更新，不用再回來下載。
-- 網站：<https://cubearcade.duckdns.org>
+- 網站：<https://cubearcade.net>
 
 ## 安裝時跳出安全警告怎麼辦？
 
