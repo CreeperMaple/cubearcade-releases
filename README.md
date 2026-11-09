@@ -1,14 +1,17 @@
 # Cube Arcade
 
-基岩版開房連線平台的 Windows 桌面程式。
+基岩版的開房連線與玩家社群平台，提供 Windows 和 Android 版；iPhone、iPad 可以把網站加入主畫面使用。
+
+網站：<https://cubearcade.net>
 
 ## 下載
+
+### Windows
 
 ### 👉 [點我下載最新版（CubeArcade-Setup.exe）](https://github.com/CreeperMaple/cubearcade-releases/releases/latest/download/CubeArcade-Setup.exe)
 
 - 要下載的是 **`.exe` 檔**。如果你是從「Releases」頁面下載，請點 `CubeArcade-Setup-版本號.exe`，不要下載 `Source code`、`.blockmap` 或 `latest.yml`。
 - 安裝過一次之後，程式會自動更新，不用再回來下載。
-- 網站：<https://cubearcade.net>
 
 ### Android
 
