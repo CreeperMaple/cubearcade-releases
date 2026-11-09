@@ -22,6 +22,25 @@
 - 建議從 Google Play 安裝；Google Play 無法安裝時再下載 APK。
 - 需要 Android 10 以上的 64 位元手機。
 
+### iPhone、iPad
+
+iPhone、iPad 沒有 App 可以下載，把網站加入主畫面後就能像 App 一樣使用。
+
+**iPhone**
+1. 打開 Safari，前往 <https://cubearcade.net>。
+2. 點畫面右下的 **「⋯」**。
+3. 點 **「分享」**。
+4. 點右下的 **「檢視較多」**。
+5. 點 **「加入主畫面」**。
+6. 回到主畫面，打開 Cube Arcade 開始使用。
+
+**iPad**
+1. 打開 Safari，前往 <https://cubearcade.net>。
+2. 點畫面右上的 **「分享」**。
+3. 點右下的 **「檢視較多」**。
+4. 點 **「加入主畫面」**。
+5. 回到主畫面，打開 Cube Arcade 開始使用。
+
 ## 安裝時跳出安全警告怎麼辦？
 
 Cube Arcade 是個人開發的免費程式，目前還沒有購買程式碼簽章憑證，所以 Windows 可能會顯示警告。這是正常的，照下面的方式就能安裝。
