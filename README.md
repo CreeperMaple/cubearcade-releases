@@ -12,7 +12,12 @@
 
 ### Android
 
-建議從 [Google Play](https://play.google.com/store/apps/details?id=org.cubearcade.app) 安裝。如果 Google Play 無法安裝，可以[下載 APK](https://github.com/CreeperMaple/cubearcade-releases/releases/latest/download/CubeArcade.apk)（需要 Android 10 以上的 64 位元手機）。
+### 👉 [點我前往 Google Play](https://play.google.com/store/apps/details?id=org.cubearcade.app)
+
+### 👉 [點我下載 APK（CubeArcade.apk）](https://github.com/CreeperMaple/cubearcade-releases/releases/latest/download/CubeArcade.apk)
+
+- 建議從 Google Play 安裝；Google Play 無法安裝時再下載 APK。
+- 需要 Android 10 以上的 64 位元手機。
 
 ## 安裝時跳出安全警告怎麼辦？
 
@@ -32,5 +37,6 @@ Cube Arcade 是個人開發的免費程式，目前還沒有購買程式碼簽�
 
 ## 支援
 
-- 開房和加入房間支援 Windows 版和 Android 版的基岩版；iPhone、iPad 可以把網站加入主畫面使用社群功能，不能開房和加入房間。
+- 開房和加入房間支援 Windows 版和 Android 版的基岩版。
+- iPhone、iPad 可以把網站加入主畫面使用，可以加入房間，但不能開房。
 - 問題回報或下架申請：cubearcade.support@gmail.com
