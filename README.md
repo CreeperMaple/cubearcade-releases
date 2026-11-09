@@ -10,6 +10,10 @@
 - 安裝過一次之後，程式會自動更新，不用再回來下載。
 - 網站：<https://cubearcade.net>
 
+### Android
+
+建議從 [Google Play](https://play.google.com/store/apps/details?id=org.cubearcade.app) 安裝。如果 Google Play 無法安裝，可以[下載 APK](https://github.com/CreeperMaple/cubearcade-releases/releases/latest/download/CubeArcade.apk)（需要 Android 10 以上的 64 位元手機）。
+
 ## 安裝時跳出安全警告怎麼辦？
 
 Cube Arcade 是個人開發的免費程式，目前還沒有購買程式碼簽章憑證，所以 Windows 可能會顯示警告。這是正常的，照下面的方式就能安裝。
