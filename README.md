@@ -32,5 +32,5 @@ Cube Arcade 是個人開發的免費程式，目前還沒有購買程式碼簽�
 
 ## 支援
 
-- 目前只支援 Windows 版的基岩版。
+- 開房和加入房間支援 Windows 版和 Android 版的基岩版；iPhone、iPad 可以把網站加入主畫面使用社群功能，不能開房和加入房間。
 - 問題回報或下架申請：cubearcade.support@gmail.com
